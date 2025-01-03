@@ -33,11 +33,11 @@ The Brunei Darussalam Scholarship Program is a government-funded initiative offe
 ## Coverage and Conditions
 
 - **Scholarship Coverage**:
-  - [covered] Tuition
-  - [covered] Housing
-  - [covered] Health Insurance
-  - [covered] Travel Costs
-  - [covered] Living Expenses
+  - [x] Tuition
+  - [x] Housing
+  - [x] Health Insurance
+  - [x] Travel Costs
+  - [x] Living Expenses
 - **Scholarship Conditions**: No work is allowed during the study period , Students MUST leave the country after finishing their studies immediately , shipping fees are provided for lagauge .
 ---
 
