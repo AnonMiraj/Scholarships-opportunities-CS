@@ -1,34 +1,35 @@
-# Malaysia Ministry of Education Scholarship
+
+# Malaysia Technical Cooperation Programme Scholarship
 
 **Author:** Ezz Nabil
 
 | **Field**                | **Details**                                                         |
 |--------------------------|---------------------------------------------------------------------|
-| **URL**                  | https://biasiswa.mohe.gov.my/INTER/index.php                        |
+| **URL**                  | https://mtcp.kln.gov.my/scholarship                                 |
 | **Country**              | Malaysia                                                            |
 | **Program Quality**      | Easy to register, but offers limited benefits                       |
 | **Program Duration**     | Two years                                                           |
-| **Stipend**              | 550 USD                                                             |
-| **Application Deadline** | May 31 to June 30                                                   |
-| **Living Costs Estimate**| The stipend is somewhat tight                                       |
+| **Stipend**              | 775 USD                                                             |
+| **Application Deadline** | June 14 to July 14                                                  |
+| **Living Costs Estimate**| The stipend is more than enough                                     |
 
 ---
 
 ## Scholarship Overview
 
-The Malaysia Ministry of Education Scholarship offers funding for international students to pursue higher education in Malaysia.
-Although MTCP Scholarship is much better if you are applicable.
+The Malaysia Technical Cooperation Programme Scholarship offers funding for international students to pursue master education in Malaysia.
+Although it requires higher GPA than Ministry of Education Scholarship but much more better benefits
 
 ---
 
 ## Academic and Language Information
 
 - **Program Requirements**: 
-  - Minimum 3.0 GPA
-  - IELTS 6.0, TOEFL 550, or an English bachelor's degree
-- **Language of Instruction**: English
+  - Minimum 3.5 GPA
+  - IELTS 6.0, TOEFL(IBT) 60, or an English bachelor's degree
 
 ---
+
 
 ## Coverage and Conditions
 
@@ -36,7 +37,7 @@ Although MTCP Scholarship is much better if you are applicable.
   - [x] Tuition
   - [?] Housing
   - [?] Health Insurance
-  - [ ] Travel Costs (not covered)
+  - [x] Travel Costs
   - [x] Living Expenses
   - (Please confirm other details if known)
 
@@ -55,8 +56,7 @@ Although MTCP Scholarship is much better if you are applicable.
 - Admission letter from a Malaysian university (optional)
 - Two letters of recommendation
 - CV
-- Research Proposal (**for Master's by Research and PhD applicants only**):
-  - A minimum of 1,000 words, relevant to the intended field of study
+- A Health certificate you can find it the MTCP Website
 
 ---
 
@@ -71,12 +71,12 @@ Although MTCP Scholarship is much better if you are applicable.
 
 - **Nationality**: Applicants must be citizens of the eligible countries for the Malaysia International Scholarship (MIS), including Egypt.
 - **Age Limits**: 
-  - Maximum age of 40 years for Master’s applicants
-  - Maximum age of 45 years for PhD applicants
+  - Maximum age of 45 years for Master’s applicants
 
 ---
 
 ## Notes
 
 - Once accepted into the program, you have 90 days to secure an admission letter from a Malaysian university.
-
+- Priority will be given to the following areas of study: 
+  - Science, Technology, Engineering and Mathematics
