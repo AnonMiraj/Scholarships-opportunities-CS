@@ -39,7 +39,7 @@ Kemitraan Negara Berkembang Scholarship, popularly known as KNB Scholarship, is 
   - [x] Health Insurance
   - [x] Travel Costs
   - [x] Living Expenses
-- **Scholarship Conditions**: A one academic year Indonesian Language (Bahasa) course is a compulsory for all KNB students. KNB students must return to home countries no later than 60 days after the program ends or after the students is declared to have graduated, as long as their residence permit has not expired.
+- **Scholarship Conditions**: A one academic year Indonesian Language (Bahasa) course is a compulsory for all KNB students. International students are not allowed to work in Indonesia. KNB students must return to home countries no later than 60 days after the program ends or after the students is declared to have graduated, as long as their residence permit has not expired.
 
 ---
 
