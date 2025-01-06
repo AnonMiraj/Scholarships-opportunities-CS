@@ -16,9 +16,10 @@
 ---
 
 ## Scholarship Overview
-
-The Malaysia Technical Cooperation Programme Scholarship offers funding for international students to pursue master education in Malaysia.
-Although it requires higher GPA than Ministry of Education Scholarship but much more better benefits
+The Malaysia Technical Cooperation Programme (MTCP) Scholarship provides funding for international students to pursue master’s degrees in Malaysia.
+While it requires a higher GPA compared to the Malaysia Ministry of Education Scholarship,
+it offers better benefits such as a more generous stipend and additional coverage.
+For details about the Malaysia Ministry of Education Scholarship, see the related [Scholarship Document](programs/Malaysia_Ministry_of_Education_Scholarship.md).
 
 ---
 
@@ -53,9 +54,9 @@ Although it requires higher GPA than Ministry of Education Scholarship but much 
 - Copy of the passport
 - Transcripts of undergraduate studies
 - Proof of English proficiency (IELTS/TOEFL/College letter)
-- Admission letter from a Malaysian university (optional)
+- Admission letter from a Malaysian university (optional but preferred)
 - Two letters of recommendation
-- CV
+- Curriculum Vitae (CV)
 - A Health certificate you can find it the MTCP Website
 
 ---
@@ -69,7 +70,7 @@ Although it requires higher GPA than Ministry of Education Scholarship but much 
 
 ## Eligibility Criteria
 
-- **Nationality**: Applicants must be citizens of the eligible countries for the Malaysia International Scholarship (MIS), including Egypt.
+- **Nationality**: Applicants must be citizens of the eligible countries for the Malaysia International Scholarship (MTCP), including Egypt.
 - **Age Limits**: 
   - Maximum age of 45 years for Master’s applicants
 

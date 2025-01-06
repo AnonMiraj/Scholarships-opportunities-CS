@@ -8,7 +8,7 @@
 | **Country**              | Malaysia                                                            |
 | **Program Quality**      | Easy to register, but offers limited benefits                       |
 | **Program Duration**     | Two years                                                           |
-| **Stipend**              | 550 USD                                                             |
+| **Stipend**              | 350 USD                                                             |
 | **Application Deadline** | May 31 to June 30                                                   |
 | **Living Costs Estimate**| The stipend is somewhat tight                                       |
 
@@ -16,8 +16,9 @@
 
 ## Scholarship Overview
 
-The Malaysia Ministry of Education Scholarship offers funding for international students to pursue higher education in Malaysia.
-Although MTCP Scholarship is much better if you are applicable.
+The Malaysia Ministry of Education (MOE) Scholarship supports international students in pursuing higher education in Malaysia.
+Compared to the MTCP Scholarship, it has less stringent GPA requirements but provides fewer benefits, such as a lower stipend.
+For details about the MTCP Scholarship, see the related [MTCP Scholarship Document](programs/Malaysia_Technical_Cooperation_Programme_Scholarship.md).
 
 ---
 
