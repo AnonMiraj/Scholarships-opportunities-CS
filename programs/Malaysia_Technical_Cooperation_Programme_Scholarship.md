@@ -19,7 +19,7 @@
 The Malaysia Technical Cooperation Programme (MTCP) Scholarship provides funding for international students to pursue master’s degrees in Malaysia.
 While it requires a higher GPA compared to the Malaysia Ministry of Education Scholarship,
 it offers better benefits such as a more generous stipend and additional coverage.
-For details about the Malaysia Ministry of Education Scholarship, see the related [Scholarship Document](programs/Malaysia_Ministry_of_Education_Scholarship.md).
+For details about the Malaysia Ministry of Education Scholarship, see the related [Scholarship Document](Malaysia_Ministry_of_Education_Scholarship.md).
 
 ---
 

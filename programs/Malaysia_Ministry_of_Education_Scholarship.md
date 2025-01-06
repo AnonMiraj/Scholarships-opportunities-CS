@@ -18,7 +18,7 @@
 
 The Malaysia Ministry of Education (MOE) Scholarship supports international students in pursuing higher education in Malaysia.
 Compared to the MTCP Scholarship, it has less stringent GPA requirements but provides fewer benefits, such as a lower stipend.
-For details about the MTCP Scholarship, see the related [MTCP Scholarship Document](programs/Malaysia_Technical_Cooperation_Programme_Scholarship.md).
+For details about the MTCP Scholarship, see the related [MTCP Scholarship Document](Malaysia_Technical_Cooperation_Programme_Scholarship.md).
 
 ---
 
