@@ -1,52 +1,53 @@
-
 # Taylor's Research Excellence Scholarship
 
-**Author: [ YOUR_NAME] **
+**Author:** Sayed Ahmed
 
 | **Field**                  | **Details**                                                             |
 |----------------------------|-------------------------------------------------------------------------|
-| **URL**                    | https://university.taylors.edu.my/en/study/scholarships-and-financial-aid/postgraduate-scholarships.html#taylors-research-excellence-scholarship                                                            |
-| **Country**                |                                                                         |
-| **University Ranking**     |                                                                         |
-| **Program Quality**        |                                                                         |
-| **Program Duration**       |                                                                         |
-| **Stipend**                |                                                                         |
-| **Application Deadline**   |                                                                         |
-| **Living Costs Estimate**  |                                                                         |
+| **URL**                    | [Taylor's Research Excellence Scholarship](https://university.taylors.edu.my/en/study/scholarships-and-financial-aid/postgraduate-scholarships.html#taylors-research-excellence-scholarship) |
+| **Country**                | Malaysia                                                                |
+| **University Ranking**     | Top 1 percent globally                                                  |
+| **Program Quality**        | Top Quality Workbases                                                   |
+| **Program Duration**       | 4 to 6 years                                                            |
+| **Stipend**                | 350 USD                                                                 |
+| **Application Deadline**   | October, April, February                                                |
+| **Living Costs Estimate**  | Not decent                                                              |
 
 ---
 
 ## Scholarship Overview
 
-[Provide a brief description of the scholarship and its key objectives.]
+High-end scholarship with a very competitive process. For more information, you can check this [prospectus](https://uni.taylors.edu.my/mads/download/prospectus/U2FsdGVkX1%252FBeJ4GJ9g0edxrpdHTImSqKfdRB6qTwZ5R1N7wBTY7cV7tC2Px6WsiJDmj8is7CCNqi4RV%252BqSQvh4IhYWLiP8j80r9iB7ai5q0oFj37ShzamzxUS9oCHQF).
 
 ---
 
 ## Academic and Language Information
 
-- **Program Requirements**: [List GPA, test scores, or other academic criteria.]
-- **Studying Language**:
-  - **Proficiency Required**: [Indicate required language proficiency levels.]
-  - **If Not Proficient**: [Explain options if the applicant doesn't meet language requirements.]
-- **Additional Language Support**: [Specify if the program offers preparatory courses or resources.]
+- **Program Requirements**: Minimum GPA of 3.0, IELTS score of 6.0
+- **Studying Language**: English Only
+  - **Proficiency Required**: Full spoken proficiency
+  - **If Not Proficient**: First-year English coursework
+- **Additional Language Support**: None
 
 ---
 
 ## Coverage and Conditions
 
 - **Scholarship Coverage**:
-  - [ ] Tuition
-  - [ ] Housing
-  - [ ] Health Insurance
+  - [x] Tuition
+  - [x] Housing
+  - [x] Health Insurance
   - [ ] Travel Costs
   - [ ] Living Expenses
-- **Scholarship Conditions**: [List conditions like maintaining a specific GPA, work restrictions, etc.]
+- **Scholarship Conditions**: No work restriction but a hard work environment.
 
 ---
 
 ## Required Documents
 
-[List all documents needed, such as transcripts, recommendation letters, proof of language proficiency, etc.]
+- Personal Identity (Passport)
+- One (1) article accepted in Scopus and/or Clarivate Indexed journals before graduation.
+- Interview-based application
 
 - [Document 1]
 - [Document 2]
@@ -57,7 +58,7 @@
 
 ## Application Process
 
-[Provide a step-by-step guide for applying, including online portals, interview requirements, etc.]
+Straightforward application through the provided link, highly based on interviews and personal assessments rather than provided documents.
 
 1. [Step 1: Description]
 2. [Step 2: Description]
@@ -67,7 +68,7 @@
 
 ## Eligibility Criteria
 
-[Specify criteria like nationality, field of study, age limits, etc.]
+Master of Computer Science 2-4 years (full-time), 3-6 years (part-time): By Research
 
 - Nationality: [Eligible Nationalities]
 - Field of Study: [Eligible Fields]
@@ -82,5 +83,4 @@
 
 ## Notes
 
-[Add any special notes, like tips for application success or unique features of the scholarship.]
-
+None
