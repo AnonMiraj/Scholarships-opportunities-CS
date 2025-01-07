@@ -49,18 +49,36 @@ High-end scholarship with a very competitive process. For more information, you 
 - One (1) article accepted in Scopus and/or Clarivate Indexed journals before graduation.
 - Interview-based application
 
+- [Document 1]
+- [Document 2]
+- [Document 3]
+- [Document 4]
+
 ---
 
 ## Application Process
 
 Straightforward application through the provided link, highly based on interviews and personal assessments rather than provided documents.
 
+1. [Step 1: Description]
+2. [Step 2: Description]
+3. [Step 3: Description]
+4. [Step 4: Description]
 ---
 
 ## Eligibility Criteria
 
 Master of Computer Science 2-4 years (full-time), 3-6 years (part-time): By Research
 
+- Nationality: [Eligible Nationalities]
+- Field of Study: [Eligible Fields]
+- Age Limits: [Age Limits]
+---
+
+## Fields Available
+
+
+[List of Available Fields]
 ---
 
 ## Notes

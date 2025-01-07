@@ -1,5 +1,7 @@
 # Brunei_Program
 
+**Author:** Sayed Ahmed
+
 | **Field**                  | **Details**                                                             |
 |----------------------------|-------------------------------------------------------------------------|
 | **URL**                    | https://www.mfa.gov.bn/Pages/online-bdgs.aspx (open with VPN)           |
@@ -61,17 +63,19 @@ The Brunei Darussalam Scholarship Program is a government-funded initiative offe
 
 ## Eligibility Criteria
 
-Available Fields in Universiti Brunei Darussalam (UBD):
-- Master of Digital Science (Artificial Intelligence)
-- Master of Digital Science (Computer Science)
-- Master of Digital Science (Cybersecurity & Forensic)
-- Master of Digital Science (Data Science)
-- Master of Digital Science (Robotics)
 
-Available Fields in Universiti Teknologi Brunei (UTB):
-- Master of Science (By Coursework) in Management and Technology – Full Time 1 year
-- Master of Science (By Coursework) in Computing and Information Systems – Full Time 1 year
-- Master of Science (By Coursework) in Cyber Security – Full Time 1 year
+## Fields Available
+- Available Fields in Universiti Brunei Darussalam (UBD):
+    - Master of Digital Science (Artificial Intelligence)
+    - Master of Digital Science (Computer Science)
+    - Master of Digital Science (Cybersecurity & Forensic)
+    - Master of Digital Science (Data Science)
+    - Master of Digital Science (Robotics)
+
+- Available Fields in Universiti Teknologi Brunei (UTB):
+    - Master of Science (By Coursework) in Management and Technology – Full Time 1 year
+    - Master of Science (By Coursework) in Computing and Information Systems – Full Time 1 year
+    - Master of Science (By Coursework) in Cyber Security – Full Time 1 year
 
 ## Notes
 
