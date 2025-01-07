@@ -8,7 +8,7 @@
 | **Country**              | Indonesia                                                                                                                                                                                                                                                          |
 | **Program Quality**      | None                                                                                                                                                                                                                                                               |
 | **Program Duration**     | 3 years (1 year for Bahasa Indonesia course)                                                                                                                                                                                                                       |
-| **Stipend**              | - 1,500,000 IDR settlement allowance upon arrival (approx. 93 USD) <br>- 2,550,000 IDR living allowance monthly (approx. 158 USD) <br>- 400,000 IDR research allowance monthly (approx. 25 USD) <br>- 350,000 IDR books allowance monthly (approx. 22 USD) <br>- 200,000 IDR health insurance monthly (approx. 12 USD) |
+| **Stipend**              | 3,500,000 IDR (approx. 216 USD) |
 | **Application Deadline** | 22 Jan - 23 Feb                                                                                                                                                                                                                                                    |
 | **Living Costs Estimate**| None                                                                                                                                                                                                                                                               |
 
@@ -34,10 +34,10 @@ Kemitraan Negara Berkembang Scholarship, popularly known as KNB Scholarship, is 
 
 - **Scholarship Coverage**:
   - [x] Tuition
-  - [x] Housing
-  - [x] Health Insurance
+  - [x] Housing - 1,500,000 IDR settlement allowance upon arrival (approx. 93 USD).
+  - [x] Health Insurance - 200,000 IDR health insurance monthly (approx. 12 USD).
   - [x] Travel Costs
-  - [x] Living Expenses
+  - [x] Living Expenses - 2,550,000 IDR living allowance monthly (approx. 158 USD)
 - **Scholarship Conditions**: A one academic year Indonesian Language (Bahasa) course is compulsory for all KNB students. International students are not allowed to work in Indonesia. KNB students must return to their home countries no later than 60 days after the program ends or after the students are declared to have graduated, as long as their residence permit has not expired.
 
 ---
