@@ -12,6 +12,8 @@
 | **Stipend**                | 350 USD                                                                 |
 | **Application Deadline**   | October, April, February                                                |
 | **Living Costs Estimate**  | Not decent                                                              |
+| **Return to Home Country**        |                                                                     |
+| **English Certificate Substitute**|                                                                 |
 
 ---
 

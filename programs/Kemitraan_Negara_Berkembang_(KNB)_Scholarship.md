@@ -11,6 +11,8 @@
 | **Stipend**              | 3,500,000 IDR (approx. 216 USD) |
 | **Application Deadline** | 22 Jan - 23 Feb                                                                                                                                                                                                                                                    |
 | **Living Costs Estimate**| None                                                                                                                                                                                                                                                               |
+| **Return to Home Country**        | Yes                                                                  |
+| **English Certificate Substitute**| Yes                                                              |
 
 ---
 
@@ -22,7 +24,7 @@ Kemitraan Negara Berkembang Scholarship, popularly known as KNB Scholarship, is 
 
 ## Academic and Language Information
 
-- **Program Requirements**: GPA not specified, 6.0 IELTS minimum or 80 IBT TOEFL or 700 TOEIC; certificate must be obtained within the last 2 years.
+- **Program Requirements**: GPA not specified, 6.0 IELTS minimum or 80 IBT TOEFL or 700 TOEIC; certificate must be obtained within the last 2 years or participants from a university who are enrolled in programs in English.
 - **Studying Language**: Bahasa Indonesia / English (depends on the university and study field).
   - **Proficiency Required**: If English, then as stated above. If Bahasa, will have to learn it anyways.
   - **If Not Proficient**: None

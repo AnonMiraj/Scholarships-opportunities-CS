@@ -2,17 +2,16 @@
 
 **Author:** Sayed Ahmed
 
-| **Field**                  | **Details**                                                             |
-|----------------------------|-------------------------------------------------------------------------|
-| **URL**                    | https://www.mfa.gov.bn/Pages/online-bdgs.aspx (open with VPN)           |
-| **Country**                | Brunei                                                                  |
-| **University Ranking**     | None                                                                    |
-| **Program Quality**        | None                                                                    |
-| **Program Duration**       | 2 years (Darussalam), 1 year (Universiti Teknologi)                     |
-| **Stipend**                | $370 USD general + $150 USD for food                                    |
-| **Application Deadline**   | 15 Jan - 15 Feb                                                         |
-| **Living Costs Estimate**  | No exact estimate but decent expenses.                                  |
-
+| **Field**                         | **Details**                                                      |
+|-----------------------------------|------------------------------------------------------------------|
+| **URL**                           | https://www.mfa.gov.bn/Pages/online-bdgs.aspx (open with VPN)    |
+| **Country**                       | Brunei                                                           |
+| **Program Duration**              | 2 years (Darussalam), 1 year (Universiti Teknologi)              |
+| **Stipend**                       | $370 USD general + $150 USD for food                             |
+| **Application Deadline**          | 15 Jan - 15 Feb                                                  |
+| **Living Costs Estimate**         | No exact estimate but decent expenses.                           |
+| **Return to Home Country**        | Yes                                                              |
+| **English Certificate Substitute**|                                                                  |
 ---
 
 ## Scholarship Overview

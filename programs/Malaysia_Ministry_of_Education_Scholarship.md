@@ -11,6 +11,8 @@
 | **Stipend**              | 350 USD                                                             |
 | **Application Deadline** | May 31 to June 30                                                   |
 | **Living Costs Estimate**| The stipend is somewhat tight                                       |
+| **Return to Home Country**        | No                                                                  |
+| **English Certificate Substitute**| Yes                                                              |
 
 ---
 

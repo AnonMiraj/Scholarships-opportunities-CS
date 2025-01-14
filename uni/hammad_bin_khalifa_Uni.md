@@ -14,6 +14,8 @@
 | **Stipend**                | 1371 USD                                                                |
 | **Application Deadline**   | 2 Feb                                                                   |
 | **Living Costs Estimate**  | No exact estimate, but very good expenses                               |
+| **Return to Home Country**        | No                                                                  |
+| **English Certificate Substitute**| Yes                                                            |
 
 ---
 

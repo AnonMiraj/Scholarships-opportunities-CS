@@ -12,6 +12,8 @@
 | **Stipend**              | 775 USD                                                             |
 | **Application Deadline** | June 14 to July 14                                                  |
 | **Living Costs Estimate**| The stipend is more than enough                                     |
+| **Return to Home Country**        | No                                                                  |
+| **English Certificate Substitute**| Yes                                                              |
 
 ---
 
