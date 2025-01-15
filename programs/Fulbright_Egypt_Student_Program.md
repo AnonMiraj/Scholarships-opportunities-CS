@@ -1,4 +1,3 @@
-
 # Fulbright Egypt Student Program
 
 **Author: [ YOUR_NAME] **
@@ -13,8 +12,6 @@
 | **Stipend**                |                                                                         |
 | **Application Deadline**   |                                                                         |
 | **Living Costs Estimate**  |                                                                         |
-| **Return to Home Country**        |                                                                  |
-| **English Certificate Substitute**|                                                                  |
 
 ---
 

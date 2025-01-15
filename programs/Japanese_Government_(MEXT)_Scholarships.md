@@ -1,20 +1,19 @@
-
 # Japanese Government (MEXT) Scholarships
 
 **Author: [ YOUR_NAME] **
 
-| **Field**                  | **Details**                                                             |
-|----------------------------|-------------------------------------------------------------------------|
-| **URL**                    | https://www.eg.emb-japan.go.jp/itpr_en/11_000001_00151.html                                                            |
-| **Country**                |                                                                         |
-| **University Ranking**     |                                                                         |
-| **Program Quality**        |                                                                         |
-| **Program Duration**       |                                                                         |
-| **Stipend**                |                                                                         |
-| **Application Deadline**   |                                                                         |
-| **Living Costs Estimate**  |                                                                         |
-| **Return to Home Country**        |                                                                  |
-| **English Certificate Substitute**|                                                                  |
+| **Field**                          | **Details**                                                 |
+| ---------------------------------- | ----------------------------------------------------------- |
+| **URL**                            | https://www.eg.emb-japan.go.jp/itpr_en/11_000001_00151.html |
+| **Country**                        |                                                             |
+| **University Ranking**             |                                                             |
+| **Program Quality**                |                                                             |
+| **Program Duration**               |                                                             |
+| **Stipend**                        |                                                             |
+| **Application Deadline**           |                                                             |
+| **Living Costs Estimate**          |                                                             |
+| **Return to Home Country**         |                                                             |
+| **English Certificate Substitute** |                                                             |
 
 ---
 

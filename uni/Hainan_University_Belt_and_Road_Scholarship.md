@@ -3,18 +3,18 @@
 
 **Author: [ YOUR_NAME] **
 
-| **Field**                  | **Details**                                                             |
-|----------------------------|-------------------------------------------------------------------------|
-| **URL**                    | hd.hainanu.edu.cn/gjjyen/info/1016/1242.htm                                                            |
-| **Country**                |                                                                         |
-| **University Ranking**     |                                                                         |
-| **Program Quality**        |                                                                         |
-| **Program Duration**       |                                                                         |
-| **Stipend**                |                                                                         |
-| **Application Deadline**   |                                                                         |
-| **Living Costs Estimate**  |                                                                         |
-| **Return to Home Country**        |                                                                     |
-| **English Certificate Substitute**|                                                                 |
+| **Field**                          | **Details**                                 |
+| ---------------------------------- | ------------------------------------------- |
+| **URL**                            | hd.hainanu.edu.cn/gjjyen/info/1016/1242.htm |
+| **Country**                        |                                             |
+| **University Ranking**             |                                             |
+| **Program Quality**                |                                             |
+| **Program Duration**               |                                             |
+| **Stipend**                        |                                             |
+| **Application Deadline**           |                                             |
+| **Living Costs Estimate**          |                                             |
+| **Return to Home Country**         |                                             |
+| **English Certificate Substitute** |                                             |
 
 ---
 

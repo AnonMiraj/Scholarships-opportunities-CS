@@ -3,17 +3,17 @@
 
 **Author: [ YOUR_NAME] **
 
-| **Field**                  | **Details**                                                             |
-|----------------------------|-------------------------------------------------------------------------|
-| **URL**                    | http://www.anso.org.cn/programmes/talent/s                                                            |
-| **Country**                |                                                                         |
-| **University Ranking**     |                                                                         |
-| **Program Quality**        |                                                                         |
-| **Program Duration**       |                                                                         |
-| **Stipend**                |                                                                         |
-| **Application Deadline**   |                                                                         |
-| **Living Costs Estimate**  |                                                                         |
-| **Return to Home Country**        |                                                                  |
+| **Field**                  | **Details**                                |
+| -------------------------- | ------------------------------------------ |
+| **URL**                    | http://www.anso.org.cn/programmes/talent/s |
+| **Country**                |                                            |
+| **University Ranking**     |                                            |
+| **Program Quality**        |                                            |
+| **Program Duration**       |                                            |
+| **Stipend**                |                                            |
+| **Application Deadline**   |                                            |
+| **Living Costs Estimate**  |                                            |
+| **Return to Home Country** |                                            |
 | **English Certificate Substitute**|                                                                  |
 ---
 
