@@ -12,12 +12,13 @@
 | **Return to Home Country**         | Preferred                                                            |
 | **English Certificate Substitute** | Not mandatory, but proof of English or Japanese proficiency is encouraged. |
 
----
 
 ## Scholarship Overview
 
 The MEXT Scholarship is designed to support international students who aim to pursue graduate-level education (master’s or doctoral) in Japan.
 Its purpose is to foster international relations and mutual understanding while contributing to global development through advanced education.
+
+For details about one of the universities route, see the related [Tokyo_Tech_Scholarships](../uni/Tokyo_Tech_Scholarships.md)
 
 ---
 
@@ -96,4 +97,4 @@ Applicants may choose fields related to their prior studies
 ## Notes
 
 - The scholarship payment starts about 1-1.5 months after arrival in Japan, so initial financial preparation is necessary.
-
+- **Applicants are prohibited from applying to multiple programs under the MEXT Scholarship system at the same time. This includes both routes, as well as any other overlapping MEXT-sponsored opportunities.**
