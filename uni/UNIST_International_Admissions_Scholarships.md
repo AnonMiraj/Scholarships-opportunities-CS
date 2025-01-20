@@ -1,88 +1,99 @@
-
 # UNIST International Admissions Scholarships
 
-**Author: [ YOUR_NAME] **
+**Author: Ezz Nabil**
 
 | **Field**                  | **Details**                                                             |
 |----------------------------|-------------------------------------------------------------------------|
-| **URL**                    | https://admg-intl.unist.ac.kr/admissions/guidelines/                                                            |
-| **Country**                |                                                                         |
-| **University Ranking**     |                                                                         |
-| **Program Quality**        |                                                                         |
-| **Program Duration**       |                                                                         |
-| **Stipend**                |                                                                         |
-| **Application Deadline**   |                                                                         |
-| **Living Costs Estimate**  |                                                                         |
-| **Return to Home Country**        |                                                                     |
-| **English Certificate Substitute**|                                                                 |
+| **URL**                    | https://admg-intl.unist.ac.kr/admissions/guidelines/                   |
+| **Country**                | South Korea                                                           |
+| **Program Duration**       | 2 years for Master’s, 4 years for Doctoral programs                    |
+| **Stipend**                | More than KRW 10,560,000/year                                         |
+| **Application Deadline**   | (Spring: September–December, Fall: March–June)        |
+| **Living Costs Estimate**  | Covered partially by stipends, with dormitory housing available        |
+| **Return to Home Country** | Not mandatory but encouraged                  |
+| **English Certificate Substitute** | Medium-of-instruction certificate or equivalent proof of proficiency |
 
 ---
 
 ## Scholarship Overview
 
-[Provide a brief description of the scholarship and its key objectives.]
+The UNIST International Admissions Scholarship aims to attract outstanding international students to pursue graduate studies in science, engineering, and technology. It provides full tuition coverage, competitive stipends, and access to state-of-the-art facilities, fostering a globally inclusive academic environment.
 
 ---
 
 ## Academic and Language Information
 
-- **Program Requirements**: [List GPA, test scores, or other academic criteria.]
+- **Program Requirements**:
+  - Bachelor’s degree for Master’s applicants or Master’s degree for Doctoral applicants.
+  - Minimum GPA: 3.0/4.0 or equivalent.
 - **Studying Language**:
-  - **Proficiency Required**: [Indicate required language proficiency levels.]
-  - **If Not Proficient**: [Explain options if the applicant doesn't meet language requirements.]
-- **Additional Language Support**: [Specify if the program offers preparatory courses or resources.]
+  - **Proficiency Required**: English proficiency proven by TOEFL, IELTS, or TEPS scores.
+  - **If Not Proficient**: Submit proof of English-medium instruction or complete preparatory coursework as required.
+- **Additional Language Support**:
+  - Academic support is provided for non-native English speakers.
 
 ---
 
 ## Coverage and Conditions
 
 - **Scholarship Coverage**:
-  - [ ] Tuition
-  - [ ] Housing
-  - [ ] Health Insurance
-  - [ ] Travel Costs
-  - [ ] Living Expenses
-- **Scholarship Conditions**: [List conditions like maintaining a specific GPA, work restrictions, etc.]
+  - [x] Tuition (fully covered: KRW 3,840,000/semester)
+  - [x] Housing (dormitory accommodation available)
+  - [x] Health Insurance
+  - [x] Living Expenses (KRW 17,280,000/year depending on participation in lab projects)
+- **Scholarship Conditions**:
+  - Maintain a minimum GPA of 3.0/4.0.
+  - Active participation in research projects may affect stipend amounts.
 
 ---
 
 ## Required Documents
 
-[List all documents needed, such as transcripts, recommendation letters, proof of language proficiency, etc.]
-
-- [Document 1]
-- [Document 2]
-- [Document 3]
-- [Document 4]
+1. Application Form (online)
+2. Transcripts (Bachelor’s and/or Master’s degrees)
+3. Diplomas (or certificates of expected graduation)
+4. Study Plan and Personal Statement 
+5. English Test Report (TOEFL, IELTS, TEPS, or equivalent)
+6. Recommendation Letter 
+7. Letter of Disclosure Agreement 
+8. Additional Documents (e.g., research achievements, thesis, publications)
 
 ---
 
 ## Application Process
 
-[Provide a step-by-step guide for applying, including online portals, interview requirements, etc.]
+1. **Online Application**:
+   - Complete the application at [UNIST Admissions Portal](https://admg-intl.unist.ac.kr).
+2. **Document Submission**:
+   - Upload required documents as a single PDF.
+3. **Screening**:
+   - Document evaluation followed by an interview (online or in-person).
+4. **Final Selection**:
+   - Results announced on the UNIST admissions website.
 
-1. [Step 1: Description]
-2. [Step 2: Description]
-3. [Step 3: Description]
-4. [Step 4: Description]
 ---
 
 ## Eligibility Criteria
 
-[Specify criteria like nationality, field of study, age limits, etc.]
+- **Nationality**: Open to all international applicants.
+- **Field of Study**: Focused on STEM fields such as engineering, physics, chemistry, computer science, and related areas.
+- **Age Limits**: None specified.
 
-- Nationality: [Eligible Nationalities]
-- Field of Study: [Eligible Fields]
-- Age Limits: [Age Limits]
 ---
 
 ## Fields Available
 
+- Mechanical Engineering
+- Civil, Urban, Earth, and Environmental Engineering
+- Energy and Chemical Engineering
+- Biomedical Engineering
+- Artificial Intelligence
+- Electrical Engineering
+- Computer Science and Engineering
+- Physics
+- Chemistry
 
-[List of Available Fields]
 ---
 
 ## Notes
-
-[Add any special notes, like tips for application success or unique features of the scholarship.]
 
