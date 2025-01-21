@@ -26,7 +26,7 @@ The scholarship is fully funded, covering tuition, living expenses, and travel c
 - **Program Requirements**:
   - Bachelor’s degree with a CGPA of at least 2.64/4.0.
   - Proficiency in Korean (TOPIK level 3 or above) or English (e.g., IELTS, TOEFL) is encouraged but not mandatory initially.
-    - far Example you get 90% extra points if you have more than 8.0 in IELTS
+    - for Example you get 90% extra points if you have more than 8.0 in IELTS
 - **Studying Language**:
   - **Proficiency Required**:
     - Korean: TOPIK scores are advantageous.
@@ -45,7 +45,6 @@ The scholarship is fully funded, covering tuition, living expenses, and travel c
   - [x] Travel Costs
   - [x] Living Expenses (stipend of KRW 1,000,000–1,500,000/month).
 - **Scholarship Conditions**:
-  - Maintain academic performance (minimum GPA of 2.0/4.0).
   - Participate in Korean language and cultural programs.
 
 ---
